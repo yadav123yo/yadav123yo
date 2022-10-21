@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Yogesh Yadav</h1>
 
-  <img align="center" marging-left="120" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="https://www.linkedin.com/in/yadav-yogesh-583471233/" height="300" width="400" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 
 
