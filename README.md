@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Aspiring Full Stack Web Developer. Capable of writing production-ready code using MERN stack. Passionate about coding and intensely interested in working on a new project, learning new things, and gaining experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav123yo&label=Profile%20views&color=0e75b6&style=flat" alt="yadav123yo" /> </p>
 
