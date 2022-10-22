@@ -10,7 +10,7 @@
 <p>
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yadav123yo?tab=repositories](https://github.com/yadav123yo?tab=repositories)
+- 👨‍💻 MY Resume availabe on: RESUME(https://drive.google.com/drive/u/0/recent)
 
 - 💬 Ask me about **react, JavaScript**
 
