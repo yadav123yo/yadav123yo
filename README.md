@@ -31,7 +31,7 @@
 </div>
   <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yadav123yo&show_icons=true&locale=en&layout=compact&theme=aura" alt="yadav123yo" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadav123yo&theme=aura" alt="yadav123yo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadav123yo&theme=dark" alt="yadav123yo" /></p>
 
 
 
