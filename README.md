@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yy072156@gmail.com**
   
- - 👨‍💻  My Portfolio are available at **https://yogeshyadav.vercel.app/**
+ - 👨‍💻  My Portfolio are available at **https://yadav123yo.github.io/**
   </p>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadav123yo&label=Profile%20views&color=0e75b6&style=flat" alt="yadav123yo" /> </p>
