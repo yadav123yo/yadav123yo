@@ -7,7 +7,7 @@
 <p>
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 MY Resume availabe on: RESUME(https://drive.google.com/file/d/115NsimOSrbquLjiOhx7_rzb-GEI1McbE/view?usp=sharing)
+- ## My-Resume:-- [click here](https://drive.google.com/file/d/115NsimOSrbquLjiOhx7_rzb-GEI1McbE/view?usp=sharing)
 
 - 💬 Ask me about **react, JavaScript**
 
