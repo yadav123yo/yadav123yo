@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Yogesh Yadav</h1>
+<h2 align="center">Hi 👋, I'm Yogesh Yadav</h2>
 <div id="header" width="300" height="300" >
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="250" height="300"/>
 </div>
